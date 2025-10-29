@@ -55,7 +55,7 @@ project/
 1. Place your Excel file in the `input/` folder as `resources.xlsx`
 2. Run the script:
 ```bash
-   python excel_to_rdf.py
+   python xlsx_to_ttl.py
 ```
 3. Find the generated RDF graph in `output/resources.ttl`
 
